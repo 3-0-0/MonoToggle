@@ -24,8 +24,8 @@ I created this app to be able to quickly change between mono & stereo audio when
 
 1. **Download and Run:**
    - Download the latest release of MonoToggle.
-       [MonoToggle v1.0.0 Release Page](https://github.com/3-0-0/MonoToggle/releases/tag/v1.0.0)
-       [Direct Download: MonoToggle.exe](https://github.com/3-0-0/MonoToggle/releases/download/v1.0.0/MonoToggle.exe)
+    - [MonoToggle v1.0.0 Release Page](https://github.com/3-0-0/MonoToggle/releases/tag/v1.0.0)
+    - [Direct Download: MonoToggle.exe](https://github.com/3-0-0/MonoToggle/releases/download/v1.0.0/MonoToggle.exe)
    - Right-click the executable (`MonoToggle.exe`) and choose **Run as administrator**.
    - The system tray icon will appear. Double-click the icon or use the context menu to toggle between mono and stereo audio.
 
